@@ -1,0 +1,8 @@
+[package]
+name = "ring_promise"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+oneshot = "0.1.11"
+promisery = "2.0.0"
