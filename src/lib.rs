@@ -1,3 +1,4 @@
+#![doc(html_root_url = "https://docs.rs/ring_promise/0.1.0")]
 //! # ring_promise
 //!
 //! A minimal, ergonomic, and thread-friendly abstraction for submission/completion ring-based I/O.
