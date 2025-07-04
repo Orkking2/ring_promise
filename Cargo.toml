@@ -5,4 +5,4 @@ edition = "2024"
 
 [dependencies]
 oneshot = "0.1.11"
-promisery = "2.0.0"
+promisery = "2.0.1"

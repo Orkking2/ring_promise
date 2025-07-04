@@ -10,9 +10,9 @@ checksum = "b4ce411919553d3f9fa53a0880544cda985a112117a0444d5ff1e870a893d6ea"
 
 [[package]]
 name = "promisery"
-version = "2.0.0"
+version = "2.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "de031ec80b48f8123b95aa2dc90d177b7242882e8a9f4167bd3f56ff6ef13043"
+checksum = "52be45fb6f0ed336df5ef5a126c321ae3e0d5ed148fe50a495edfe67b3d43133"
 dependencies = [
  "oneshot",
 ]
