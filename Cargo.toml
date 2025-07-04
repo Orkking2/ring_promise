@@ -2,6 +2,8 @@
 name = "ring_promise"
 version = "0.1.0"
 edition = "2024"
+description = "A minimal, ergonomic, and thread-friendly abstraction for submission/completion ring-based I/O in Rust."
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 oneshot = "0.1.11"
